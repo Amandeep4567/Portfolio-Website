@@ -4,7 +4,7 @@ Direct-Link: https://amandeep4567.github.io/Portfolio-Website/
 
 Have a look
 
-![portfolio_site](https://user-images.githubusercontent.com/90441055/186462471-cabdb53d-e60e-4868-b378-c10f49b46c60.png)
-![portfolio-site2](https://user-images.githubusercontent.com/90441055/186462479-7548319b-8297-4e24-ab79-ee11d95931e4.png)
-![portfolio-site3](https://user-images.githubusercontent.com/90441055/186462486-d3bf821f-93df-4429-8897-31cac64a360f.png)
-![portfolio-site4](https://user-images.githubusercontent.com/90441055/186462490-22518e19-6414-4188-b3c5-218ae3877374.png)
+![portfolio-site](https://user-images.githubusercontent.com/90441055/186463362-b74ae9df-af0a-4a8f-9662-ecd17789ee6f.png)
+![portfolio-site2](https://user-images.githubusercontent.com/90441055/186463369-aabe341a-70b9-4b27-9037-81f6ffba090a.png)
+![portfolio-site3](https://user-images.githubusercontent.com/90441055/186463373-d2410f32-a806-4f43-bd69-362e99f23bd5.png)
+![portfolio-site4](https://user-images.githubusercontent.com/90441055/186463375-dcfb5e99-7f24-4d79-8971-180d27adb332.png)
